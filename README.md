@@ -4,7 +4,7 @@
 
 <div style="width:100%;margin-top:50px">
 	<div style="float:left">
-		<img style="height:200px;width:185px" src="./Yiuman/resources/meizi.gif"/>
+		<img style="height:200px;width:185px" src="https://github.com/Yiuman/Yiuman/blob/master/resources/meizi.gif"/>
 	</div>
     <div style="
             margin-left:200px;font-weight:900;padding:50px">
