@@ -11,9 +11,10 @@
 
 <p align="center">
 <picture> 
-    <img  height="170px" width="160px" src="https://github.com/Yiuman/Yiuman/blob/master/resources/meizi.gif"/>
+    <img  height="170px" width="160px" src="https://github.com/yiuman/yiuman/blob/master/resources/meizi.gif"/>
 </picture>
-<picture>  
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yiuman&show_icons=true&theme=omni" />
     <img src="https://github-readme-stats.vercel.app/api?username=Yiuman&show_icons=true&count_private=true&hide=contribs">
 </picture>
 </p>
