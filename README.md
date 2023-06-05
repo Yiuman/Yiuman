@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p>
-
-<img align="left" width="185px" height="200px" src="https://github.com/Yiuman/Yiuman/blob/master/resources/meizi.gif"/>
-</p>
 <h3 align="center"> 
     <br>
     一鼓作气，再二衰，三而竭。
@@ -13,7 +9,16 @@
     不断重启很耗电的~
 </h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Yiuman)
+<p align="center">
+<picture> 
+    <img  height="170px" width="160px" src="https://github.com/Yiuman/Yiuman/blob/master/resources/meizi.gif"/>
+</picture>
+<picture>  
+    <img src="https://github-readme-stats.vercel.app/api?username=Yiuman&show_icons=true&count_private=true&hide=contribs">
+</picture>
+</p>
+
+
 
 
 
